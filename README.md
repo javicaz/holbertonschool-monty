@@ -56,15 +56,3 @@
 
 <h4>15. stack, queue</h4>
 <p>Implement the stack and queue opcodes.</p>
-
-<h4>16. Brainf*ck</h4>
-<p>Write a Brainf*ck script that prints School, followed by a new line.</p>
-
-<h4>17. Add two digits</h4>
-<p>Add two digits given by the user.</p>
-
-<h4>18. Multiplication</h4>
-<p>Multiply two digits given by the user.</p>
-
-<h4>19. Multiplication level up</h4>
-<p>Multiply two digits given by the user.</p>
